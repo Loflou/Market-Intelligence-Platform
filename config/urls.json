@@ -1,0 +1,10 @@
+{
+    "competitors": [
+        "https://example.com/competitor1",
+        "https://example.com/competitor2"
+    ],
+    "industry_news": [
+        "https://example.com/news1",
+        "https://example.com/news2"
+    ]
+}
